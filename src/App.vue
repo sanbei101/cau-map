@@ -1,7 +1,7 @@
 <template>
   <div id="app-container">
     <header>
-      <h1>中国农业大学东校区导览系统 (Demo)</h1>
+      <h1>中国农业大学东校区导览系统</h1>
     </header>
     <main>
       <div class="controls">
